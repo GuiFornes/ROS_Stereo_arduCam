@@ -12,7 +12,7 @@ It makes part of a project for CoRo lab at ETS Montreal.
   * ArducamSDK
 
 # Usage
-_Currently there are still problems with the conversion of a colored o3d point cloud to a ROS point cloud._
+_Currently there are still problems with the conversion of a **colored** o3d point cloud to a ROS point cloud._
   * Clone the repository in your catkin workspace
   * Build the package
   * Run the `arduCam_publisher.py` node to launch the camera
